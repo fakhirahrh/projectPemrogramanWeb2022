@@ -1,1 +1,5 @@
 Silahkan tuliskan Nama, NPM dan Alamat Github kalian dibawah :
+
+FAKHIRAH RODHIYAH
+NPM: 2135018
+https://github.com/fakhirahrh/Belajar-PHP
